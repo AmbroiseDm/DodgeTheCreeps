@@ -7,10 +7,7 @@ path="res://.import/enemySwimming_2.png-1c762c061d47df2dcad64b64bca7e6a3.stex"
 [deps]
 
 source_file="res://dodge_assets/art/enemySwimming_2.png"
-source_md5="d04b001ba2f4ac6884fdbe44b55fa656"
-
 dest_files=[ "res://.import/enemySwimming_2.png-1c762c061d47df2dcad64b64bca7e6a3.stex" ]
-dest_md5="bdc75ce5c86a6b1a590ba62149d2422a"
 
 [params]
 
